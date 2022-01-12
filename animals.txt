@@ -1,6 +1,0 @@
-
-animals
-donkey
-lion
-tiger
-giraffe
